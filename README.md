@@ -2,7 +2,7 @@
 
 Backend / Full-Stack Engineer · Java · Spring Boot · AI-powered applications · Scalable web systems
 
-St. Louis, MO · [LinkedIn](https://www.linkedin.com/in/yipeng-li-557594235/) · [Email](mailto:yipeng.li666@gmail.com) · [Resume](./Yipeng_Li_Resume.pdf)
+St. Louis, MO · [LinkedIn](https://www.linkedin.com/in/yipeng-li-557594235/) · [Email](mailto:l.yipeng@wustl.edu) · [Resume](./Yipeng_Li_Resume.pdf)
 
 ## Featured Projects
 
